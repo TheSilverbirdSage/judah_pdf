@@ -53,14 +53,14 @@ export default function Home() {
           <div className="mx-auto max-w-2xl sm:text-center">
             <h2 className="text-base font-semibold leading-7 text-yellow-500">Your AI Document Companion.</h2>
 
-            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-600 sm:text-6xl ">Transfrom PDF's Into Interractive Converstions </p>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-600 sm:text-6xl ">Transfrom PDFs Into Interractive Converstions </p>
 
             <p className="mt-6 text-lg leading-8 text-gray-500">
               Introducing {" "}
               <span className="font-bold text-yellow-500">JUDAH PDF.</span>
               <br />
               <br /> Upload your documents, and JUDAH PDF will answer
-              questions, sumarize content, and answer all your Q's. Ideal for
+              questions, sumarize content, and answer all your questions. Ideal for
               everyone- Designed for students, <span className="text-yellow-500">
                 JUDAH PDF
               </span>{" "}

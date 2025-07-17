@@ -2,11 +2,8 @@
 import React, { useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
 import {
-    CircleCheckIcon,
     CircleArrowDown,
-    HammerIcon,
     RocketIcon,
-    SaveIcon,
 } from "lucide-react";
 
 function FileUploader() {
